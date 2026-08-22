@@ -1,0 +1,4 @@
+interface:
+  display_name: "人类最强编导"
+  short_description: "用你的方法论和语言习惯完成自媒体定位、选题、脚本与复盘"
+  default_prompt: "Use $human-strongest-director to solve my self-media task with 人类最强编导的方法论，并按我的语言习惯输出。"
