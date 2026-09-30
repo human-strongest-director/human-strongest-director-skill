@@ -1,6 +1,6 @@
 ---
 name: human-strongest-director
-description: Apply 人类最强编导的自媒体方法论 and the user's established plain-spoken Chinese voice to user psychology, account positioning, IP diagnosis, series planning, topic selection, audience-set analysis, short-video scripting, script review, shooting direction, content optimization, data diagnosis, monetization, course design, and creator coaching. Use for 抖音、小红书、视频号、B站等自媒体任务，尤其是分析用户为何停留、关注、信任和付费，起号、陪跑客户、企业家IP、设计内容系列、寻找爆款选题、判断两个元素能否组合、写或修改口播/Vlog/短片脚本、把方法论改写成用户本人的语言、审核外包编导稿件、复盘数据、课程研发和制定变现节奏。
+description: Apply 人类最强编导的自媒体方法论、短视频脑反应理论 and the user's established plain-spoken Chinese voice to user psychology, account positioning, IP diagnosis, series planning, topic selection, audience-set analysis, content retention, short-video scripting, script review, shooting direction, content optimization, data diagnosis, monetization, course design, and creator coaching. Use for 抖音、小红书、视频号、B站等自媒体任务，尤其是分析用户为何停留、继续观看、记忆、关注、信任和付费，起号、陪跑客户、企业家IP、设计内容系列、寻找爆款选题、用脑科学与人性心理改造内容、判断两个元素能否组合、写或修改口播/Vlog/短片脚本、把方法论改写成用户本人的语言、审核外包编导稿件、复盘数据、课程研发和制定变现节奏。
 ---
 
 # 人类最强编导
@@ -13,10 +13,11 @@ description: Apply 人类最强编导的自媒体方法论 and the user's establ
 2. 必读 [references/core-methodology.md](references/core-methodology.md)，以其中的稳定原则作为判断底座。
 3. 根据任务读取 [references/workflows.md](references/workflows.md) 的对应流程。
 4. 涉及用户为什么打开平台、第一眼停留、持续观看、记住、关注、信任、付费，账号目的、企业家IP、精准大流量、产品植入、课程研发或脚本拍剪时，必读 [references/user-content-ip-business.md](references/user-content-ip-business.md)。
-5. 涉及选题组合、跨圈层、受众交集、用户兴趣真伪或“为什么两个元素放在一起数据不好”时，必读 [references/topic-set-theory.md](references/topic-set-theory.md)。
-6. 凡替用户本人撰写知识文本、观点表达、课程材料、方法论说明或口播，必读 [references/voice-style.md](references/voice-style.md)，把内部判断翻译成用户习惯的大白话。
-7. 需要交付结构化方案时，读取 [references/output-templates.md](references/output-templates.md)。
-8. 需要评价稿件或方案时，读取 [references/quality-rubric.md](references/quality-rubric.md)。
+5. 涉及脑科学、人性心理、用户认领、预测误差、信息缺口、认知负荷、内容回报、持续观看、沉浸、记忆或“短视频脑反应理论”时，必读 [references/brain-response-theory.md](references/brain-response-theory.md)。
+6. 涉及选题组合、跨圈层、受众交集、用户兴趣真伪或“为什么两个元素放在一起数据不好”时，必读 [references/topic-set-theory.md](references/topic-set-theory.md)。
+7. 凡替用户本人撰写知识文本、观点表达、课程材料、方法论说明或口播，必读 [references/voice-style.md](references/voice-style.md)，把内部判断翻译成用户习惯的大白话。
+8. 需要交付结构化方案时，读取 [references/output-templates.md](references/output-templates.md)。
+9. 需要评价稿件或方案时，读取 [references/quality-rubric.md](references/quality-rubric.md)。
 
 ## 判断优先级
 
@@ -33,6 +34,8 @@ description: Apply 人类最强编导的自媒体方法论 and the user's establ
 
 - 从“我有什么、用户要什么、平台推什么”三者交集出发，不从创作者单方面喜好出发。
 - 用户想看什么是第一判断。沿“停下来—看下去—进主页—关注—相信—付费”逐层检查，不要用一个爆款逻辑解释全部环节。
+- 区分“把用户叫进来”和“让用户继续看”。选题与开头负责建立相关性和承诺；内容必须持续提供新判断、新变化、新情绪或离答案更近的进展。
+- 知识内容优先使用“先让用户亲自产生反应，再拆解反应，再给原理命名，最后交付复制动作”的讲法。理论不是用来装专业，而是解释用户刚刚为什么停留、理解、记住或行动。
 - 先找定位和系列，再开始批量拍摄；先找选题，再润色文案。
 - 把视频当产品：明确目标用户、使用需求、内容承诺、包装、交付体验和商业空间。
 - 把内容价值放在纯抓眼球之前；同时保留低理解成本、强开头和清晰叙事。
